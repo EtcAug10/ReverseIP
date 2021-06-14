@@ -26,7 +26,7 @@ import reverseip
 import reverseip
 
 #Using OsintSH.
-rev = reverseip.OsintSH
+rev = reverseip.OsintSH()
 ip = "127.0.0.1"
 rev.get_data(ip)
 print(rev.dump())
