@@ -5,7 +5,7 @@ Littlebit Library for Reverse IP
 <b>1.</b> Clone this repository using git:
 
 ```
-git clone https://github.com/EtcAug10/ReverseIP
+git clone https://github.com/c0del1ar/ReverseIP
 ```
 
 <b>2.</b> Then make new file with *PY* extension for make python program. In this case, i make exmpl.py, Then code first as importing the library functions.
